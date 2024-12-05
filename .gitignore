@@ -1,0 +1,5 @@
+/.env
+/data.json
+/my-bot-session.memory-card.json
+/package.json
+/package-lock.json
